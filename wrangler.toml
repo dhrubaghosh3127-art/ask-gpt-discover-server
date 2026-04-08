@@ -2,3 +2,7 @@ name = "ask-gpt-discover-server"
 main = "src/index.ts"
 compatibility_date = "2026-04-08"
 compatibility_flags = ["nodejs_compat"]
+
+[[kv_namespaces]]
+binding = "DISCOVER_CACHE"
+id = "ba5dcbc1032b45a5a0270c4e1badc5e0"
